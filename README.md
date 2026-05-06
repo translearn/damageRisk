@@ -56,6 +56,15 @@ This repository contains a dataset of 100 photorealistic images, designed to sup
 | ![](./dataset/sharp_objects/sharp_object_1.jpeg) | ![](./dataset/sharp_objects/sharp_object_2.jpeg) | ![](./dataset/sharp_objects/sharp_object_3.jpeg) | ![](./dataset/sharp_objects/sharp_object_4.jpeg) | ![](./dataset/sharp_objects/sharp_object_5.jpeg) |
 | ![](./dataset/sharp_objects/sharp_object_6.jpeg) | ![](./dataset/sharp_objects/sharp_object_7.jpeg) | ![](./dataset/sharp_objects/sharp_object_8.jpeg) | ![](./dataset/sharp_objects/sharp_object_9.jpeg) | ![](./dataset/sharp_objects/sharp_object_10.jpeg) |
 
+## Publication
+Further details can be found in the following [publication](https://h2t.iar.kit.edu/pdf/Kiemel2026.pdf):
+```
+  title={Damage Risk Quantification for Robot Collisions Using Vision-Language Models}, 
+  author = {Jonas Kiemel and Erhan \"Oztop and Tamim Asfour},
+  publisher = {German Robotics Conference (GRC)},
+  year = {2026}
+```
+
 ---
 
 
