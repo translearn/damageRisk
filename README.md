@@ -130,6 +130,15 @@ This repository contains a dataset of 60 real images and 100 synthetic images, d
 | <img src="./datasets/synthetic/sharp_objects/sharp_object_1.jpeg" alt="Sharp object 1" style="max-height: 160px; max-width: 100%; width: auto; height: auto;"> | <img src="./datasets/synthetic/sharp_objects/sharp_object_2.jpeg" alt="Sharp object 2" style="max-height: 160px; max-width: 100%; width: auto; height: auto;"> | <img src="./datasets/synthetic/sharp_objects/sharp_object_3.jpeg" alt="Sharp object 3" style="max-height: 160px; max-width: 100%; width: auto; height: auto;"> | <img src="./datasets/synthetic/sharp_objects/sharp_object_4.jpeg" alt="Sharp object 4" style="max-height: 160px; max-width: 100%; width: auto; height: auto;"> | <img src="./datasets/synthetic/sharp_objects/sharp_object_5.jpeg" alt="Sharp object 5" style="max-height: 160px; max-width: 100%; width: auto; height: auto;"> |
 | <img src="./datasets/synthetic/sharp_objects/sharp_object_6.jpeg" alt="Sharp object 6" style="max-height: 160px; max-width: 100%; width: auto; height: auto;"> | <img src="./datasets/synthetic/sharp_objects/sharp_object_7.jpeg" alt="Sharp object 7" style="max-height: 160px; max-width: 100%; width: auto; height: auto;"> | <img src="./datasets/synthetic/sharp_objects/sharp_object_8.jpeg" alt="Sharp object 8" style="max-height: 160px; max-width: 100%; width: auto; height: auto;"> | <img src="./datasets/synthetic/sharp_objects/sharp_object_9.jpeg" alt="Sharp object 9" style="max-height: 160px; max-width: 100%; width: auto; height: auto;"> | <img src="./datasets/synthetic/sharp_objects/sharp_object_10.jpeg" alt="Sharp object 10" style="max-height: 160px; max-width: 100%; width: auto; height: auto;"> |
 
+## Publication
+Further details can be found in the following [publication](https://h2t.iar.kit.edu/pdf/Kiemel2026.pdf):
+```
+  title={Damage Risk Quantification for Robot Collisions Using Vision-Language Models}, 
+  author = {Jonas Kiemel and Erhan \"Oztop and Tamim Asfour},
+  publisher = {German Robotics Conference (GRC)},
+  year = {2026}
+```
+
 ---
 
 
